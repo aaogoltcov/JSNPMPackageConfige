@@ -1,0 +1,21 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aaogoltcov/JSNPMPackageConfige.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "sirius",
+  "license": "ISC",
+  "dependencies": {
+
+  }
+}
